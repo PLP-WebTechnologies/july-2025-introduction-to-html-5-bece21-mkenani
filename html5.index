@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Mphasto Kenani">
-    <title>Mphasto Kenani | Software Developer</title>
+    <meta name="author" content="Mphatso Kenani">
+    <title>Mphatso Kenani | Software Developer</title>
 </head>
 <body>
     <header>
-        <h1>Mphasto Kenani</h1>
+        <h1>Mphatso Kenani</h1>
         <p>Software Developer</p>
     </header>
 
@@ -24,7 +24,7 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>I am Mphasto Kenani, a passionate software developer currently studying at MUBAS. I specialize in creating responsive web applications and mobile solutions using modern technologies.</p>
+            <p>I am Mphatso Kenani, a passionate software developer currently studying at MUBAS. I specialize in creating responsive web applications and mobile solutions using modern technologies.</p>
         </section>
 
         <section id="skills">
@@ -62,47 +62,14 @@
         <section id="contact">
             <h2>Contact Information</h2>
             <address>
-                <p>Email: <a href="mailto:mphasto@example.com">mphasto@example.com</a></p>
-                <p>Phone: <a href="tel:+265123456789">+265 123 456 789</a></p>
+                <p>Email: <a href="mailto:mphatsokenani0@example.com">mphatsokenani0@example.com</a></p>
+                <p>Phone: <a href="tel:+265899651010">+265899651010</a></p>
             </address>
         </section>
     </main>
 
     <footer>
-        <p>&copy; <time datetime="2023">2023</time> Mphasto Kenani. All rights reserved.</p>
+        <p>&copy; <time datetime="2023">2023</time> Mphatso Kenani. All rights reserved.</p>
     </footer>
-
-    <section id="readme">
-        <h2>README</h2>
-        <article>
-            <h3>About This Project</h3>
-            <p>This HTML5 document serves as a professional portfolio for Mphasto Kenani, a software developer. The page is structured using semantic HTML5 elements to ensure accessibility and SEO optimization.</p>
-            
-            <h3>Key Features</h3>
-            <ul>
-                <li>Semantic HTML5 structure with proper landmark elements</li>
-                <li>Logical heading hierarchy for better accessibility and SEO</li>
-                <li>No CSS or JavaScript used as per requirements</li>
-                <li>Accessibility-focused attributes and elements</li>
-                <li>SEO-optimized metadata and content structure</li>
-            </ul>
-            
-            <h3>Accessibility Considerations</h3>
-            <ul>
-                <li>Proper use of headings in hierarchical order</li>
-                <li>Semantic elements like nav, article, and section</li>
-                <li>Descriptive link text</li>
-                <li>Address element for contact information</li>
-            </ul>
-            
-            <h3>SEO Considerations</h3>
-            <ul>
-                <li>Descriptive meta tags</li>
-                <li>Keyword-rich content in proper context</li>
-                <li>Semantic structure for better content understanding by crawlers</li>
-                <li>Human-readable and crawler-friendly content</li>
-            </ul>
-        </article>
-    </section>
 </body>
 </html>
